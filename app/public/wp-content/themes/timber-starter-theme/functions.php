@@ -35,5 +35,26 @@ class MyTheme extends Timber\Site {
     }
 }
 
+function setup_page_templates() {
+    if (is_page('index')) {
+        Timber::render('index.twig');
+    } elseif (is_page('services')) {
+        Timber::render('services.twig');
+    // } elseif (is_page('servicio-1')) {
+    //     Timber::render('service-1.twig');
+    // } elseif (is_page('servicio-2')) {
+    //     Timber::render('service-2.twig');
+    } elseif (is_page('about')) {
+        Timber::render('about.twig');
+    } elseif (is_page('contact')) {
+        Timber::render('contact.twig');
+    } else {
+        Timber::render('404.twig'); 
+    }
+}
+add_action('wp', 'setup_page_templates');
+
+
+
 // Inicializar la clase para cargar Timber en tu tema.
 new MyTheme();
