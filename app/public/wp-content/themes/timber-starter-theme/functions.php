@@ -8,7 +8,7 @@ if ( ! class_exists( 'Timber' ) ) {
 }
 
 // Definir directorios de plantillas para Timber.
-Timber::$dirname = array('templates', 'views');
+Timber::$dirname = array('views');
 
 class MyTheme extends Timber\Site {
     // Constructor de la clase para configurar el tema.
@@ -41,24 +41,24 @@ function enqueue_theme_styles() {
 add_action( 'wp_enqueue_scripts', 'enqueue_theme_styles' );
 
 
-function setup_page_templates() {
+function setup_page_views() {
     if (is_page('index')) {
         Timber::render('index.twig');
-    } elseif (is_page('services')) {
-        Timber::render('services.twig');
+    } elseif (is_page('author')) {
+        Timber::render('author.twig');
     // } elseif (is_page('servicio-1')) {
     //     Timber::render('service-1.twig');
     // } elseif (is_page('servicio-2')) {
     //     Timber::render('service-2.twig');
-    } elseif (is_page('about')) {
-        Timber::render('about.twig');
-    } elseif (is_page('contact')) {
-        Timber::render('contact.twig');
+    } elseif (is_page('menu')) {
+        Timber::render('menu.twig');
+    } elseif (is_page('footer')) {
+        Timber::render('footer.twig');
     } else {
         Timber::render('404.twig'); 
     }
 }
-add_action('wp', 'setup_page_templates');
+add_action('wp', 'setup_page_views');
 
 
 

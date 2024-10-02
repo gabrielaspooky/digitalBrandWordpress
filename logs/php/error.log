@@ -338,3 +338,190 @@ Stack trace:
 [01-Oct-2024 19:33:59 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [01-Oct-2024 19:36:50 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [01-Oct-2024 20:53:21 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[02-Oct-2024 08:02:25 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "setup_page_templates" not found or invalid function name in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp.php(830): do_action_ref_array('wp', Array)
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\functions.php(1336): WP->main('')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(16): wp()
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#6 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php on line 324
+[02-Oct-2024 08:02:25 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "setup_page_templates" not found or invalid function name in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(565): WP_Hook->do_action(Array)
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp.php(830): do_action_ref_array('wp', Array)
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\functions.php(1336): WP->main('')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(16): wp()
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#6 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php on line 324
+[02-Oct-2024 08:06:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:06:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:06:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:06:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:06:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:06:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:07:24 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag? in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig:12
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(430): Twig\Parser->filterBodyNodes(Object(Twig\Node\TextNode))
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(124): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(735): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(793): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(482): Twig\Environment->compileSource(Object(Twig\Source))
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->loadClass('__TwigTemplate_...', 'index.twig', NULL)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(423): Twig\Environment->loadTemplate('index.twig')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(78): Twig\Environment->load('index.twig')
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('index.twig', Array, false, 'default')
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile(Array, Array, false, 'default', true)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch(Array, Array, false, 'default')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\index.php(23): Timber\Timber::render(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#15 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig on line 12
+[02-Oct-2024 08:07:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:07:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:07:46 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag? in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig:1
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(430): Twig\Parser->filterBodyNodes(Object(Twig\Node\TextNode))
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(124): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(735): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(793): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(482): Twig\Environment->compileSource(Object(Twig\Source))
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->loadClass('__TwigTemplate_...', 'index.twig', NULL)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(423): Twig\Environment->loadTemplate('index.twig')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(78): Twig\Environment->load('index.twig')
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('index.twig', Array, false, 'default')
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile(Array, Array, false, 'default', true)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch(Array, Array, false, 'default')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\index.php(23): Timber\Timber::render(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#15 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig on line 1
+[02-Oct-2024 08:07:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:07:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:07:47 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag? in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig:1
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(430): Twig\Parser->filterBodyNodes(Object(Twig\Node\TextNode))
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(124): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(735): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(793): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(482): Twig\Environment->compileSource(Object(Twig\Source))
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->loadClass('__TwigTemplate_...', 'index.twig', NULL)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(423): Twig\Environment->loadTemplate('index.twig')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(78): Twig\Environment->load('index.twig')
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('index.twig', Array, false, 'default')
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile(Array, Array, false, 'default', true)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch(Array, Array, false, 'default')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\index.php(23): Timber\Timber::render(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#15 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig on line 1
+[02-Oct-2024 08:07:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:07:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:08:01 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag? in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig:1
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(430): Twig\Parser->filterBodyNodes(Object(Twig\Node\TextNode))
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(124): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(735): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(793): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(482): Twig\Environment->compileSource(Object(Twig\Source))
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->loadClass('__TwigTemplate_...', 'index.twig', NULL)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(423): Twig\Environment->loadTemplate('index.twig')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(78): Twig\Environment->load('index.twig')
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('index.twig', Array, false, 'default')
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile(Array, Array, false, 'default', true)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch(Array, Array, false, 'default')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\index.php(23): Timber\Timber::render(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#15 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig on line 1
+[02-Oct-2024 08:08:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:08:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:08:18 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag? in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig:1
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(430): Twig\Parser->filterBodyNodes(Object(Twig\Node\TextNode))
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(124): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(735): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(793): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(482): Twig\Environment->compileSource(Object(Twig\Source))
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->loadClass('__TwigTemplate_...', 'index.twig', NULL)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(423): Twig\Environment->loadTemplate('index.twig')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(78): Twig\Environment->load('index.twig')
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('index.twig', Array, false, 'default')
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile(Array, Array, false, 'default', true)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch(Array, Array, false, 'default')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\index.php(23): Timber\Timber::render(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#15 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig on line 1
+[02-Oct-2024 08:08:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:08:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:08:19 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag? in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig:1
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(430): Twig\Parser->filterBodyNodes(Object(Twig\Node\TextNode))
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(124): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(735): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(793): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(482): Twig\Environment->compileSource(Object(Twig\Source))
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->loadClass('__TwigTemplate_...', 'index.twig', NULL)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(423): Twig\Environment->loadTemplate('index.twig')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(78): Twig\Environment->load('index.twig')
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('index.twig', Array, false, 'default')
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile(Array, Array, false, 'default', true)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch(Array, Array, false, 'default')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\index.php(23): Timber\Timber::render(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#15 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig on line 1
+[02-Oct-2024 08:08:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:08:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:08:19 UTC] PHP Fatal error:  Uncaught Twig\Error\SyntaxError: A template that extends another one cannot include content outside Twig blocks. Did you forget to put the content inside a {% block %} tag? in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig:1
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(430): Twig\Parser->filterBodyNodes(Object(Twig\Node\TextNode))
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Parser.php(124): Twig\Parser->filterBodyNodes(Object(Twig\Node\Node))
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(735): Twig\Parser->parse(Object(Twig\TokenStream))
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(793): Twig\Environment->parse(Object(Twig\TokenStream))
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(482): Twig\Environment->compileSource(Object(Twig\Source))
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->loadClass('__TwigTemplate_...', 'index.twig', NULL)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(423): Twig\Environment->loadTemplate('index.twig')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(78): Twig\Environment->load('index.twig')
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('index.twig', Array, false, 'default')
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile(Array, Array, false, 'default', true)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch(Array, Array, false, 'default')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\index.php(23): Timber\Timber::render(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Gabrie...')
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#15 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views\index.twig on line 1
+[02-Oct-2024 08:08:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:08:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:08:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:08:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:13:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:13:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:15:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:15:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:16:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:16:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:16:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:16:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:17:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:17:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438
+[02-Oct-2024 08:19:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1435
+[02-Oct-2024 08:19:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php:411) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\pluggable.php on line 1438

@@ -1,46 +1,57 @@
 {% block html_head_container %}
-
-{% include 'html-header.twig' %}
-	{% block head %}
-	{% endblock %}
-	</head>
+    {% include 'html-header.twig' %}
+    {% block head %}
+        <!-- Aquí puedes añadir elementos personalizados al <head>, como metas, estilos adicionales, etc. -->
+    {% endblock %}
+    </head>
 {% endblock %}
 
-	<body class="{{body_class}}" data-template="base.twig">
-		{{ function('wp_body_open') }}
-		<a class="skip-link screen-reader-text" href="#content">{{ _e( 'Skip to content') }}</a>
-		<header class="header" >
-			{% block header %}
-				<div class="wrapper">
-					<h1 class="hdr-logo" role="banner">
-						<a class="hdr-logo-link" href="{{site.url}}" rel="home">{{site.name}}</a>
-					</h1>
-					<nav id="nav-main" class="nav-main" role="navigation">
-						{% include "menu.twig" with {'items': menu.get_items} %}
-					</nav><!-- #nav -->
-				</div>
-			{% endblock %}
-		</header>
+<body class="{{ body_class }}" data-template="base.twig">
+    {{ function('wp_body_open') }}
+    <a class="skip-link screen-reader-text" href="#content">{{ _e('Skip to content') }}</a>
 
-		<section id="content" role="main" class="content-wrapper">
-			{% if title %}<h1>{{title}}</h1>{% endif %}
-			<div class="wrapper">
-				{% block content %}
-					Sorry, no content
-				{% endblock %}
-			</div>
-			{% if sidebar %}
-				<aside class="layout-sidebar">
-					{{sidebar}}
-				</aside>
-			{% endif %}
-		</section>
+    <header class="header bg-blue-900 text-white py-4">
+        {% block header %}
+            <div class="wrapper max-w-6xl mx-auto flex justify-between items-center">
+                <h1 class="hdr-logo text-3xl font-bold" role="banner">
+                    <a class="hdr-logo-link hover:text-blue-300" href="{{ site.url }}" rel="home">{{ site.name }}</a>
+                </h1>
+                <nav id="nav-main" class="nav-main flex space-x-6" role="navigation">
+                    {% include "menu.twig" with {'items': menu.get_items} %}
+                </nav><!-- #nav -->
+            </div>
+        {% endblock %}
+    </header>
 
-		{% block footer %}
-			<footer id="footer">
-				{% include 'footer.twig' %}
-			</footer>
-			{{ function('wp_footer') }}
-		{% endblock %}
-	</body>
+    <section id="content" role="main" class="content-wrapper bg-gray-100 py-8">
+        {% if title %}
+            <div class="wrapper max-w-6xl mx-auto">
+                <h1 class="text-4xl font-semibold mb-6">{{ title }}</h1>
+            </div>
+        {% endif %}
+        <div class="wrapper max-w-6xl mx-auto">
+            {% block content %}
+                <!-- El contenido principal se renderiza aquí -->
+                <p class="text-lg text-gray-700">Lo siento, no hay contenido disponible.</p>
+            {% endblock %}
+        </div>
+        
+        {% if sidebar %}
+            <aside class="layout-sidebar max-w-4xl mx-auto mt-8">
+                <div class="bg-white p-4 shadow-md rounded">
+                    {{ sidebar }}
+                </div>
+            </aside>
+        {% endif %}
+    </section>
+
+    {% block footer %}
+        <footer id="footer" class="bg-blue-900 text-white py-6 mt-12">
+            <div class="wrapper max-w-6xl mx-auto flex justify-between">
+                {% include 'footer.twig' %}
+            </div>
+        </footer>
+        {{ function('wp_footer') }}
+    {% endblock %}
+</body>
 </html>
