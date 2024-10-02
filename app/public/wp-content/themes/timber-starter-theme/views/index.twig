@@ -34,11 +34,14 @@
     </div>
 </main>
 
-<footer class="bg-black shadow mt-8">
-    <div class="max-w-7xl mx-auto px-4 py-6">
-        <p class="text-center text-white">© {{ "now"|date("Y") }} Pied Piper Digital Agency. Todos los derechos reservados.</p>
-    </div>
-</footer>
+    {% block footer %}
+        <footer id="footer" class="bg-black text-white py-6 mt-12">
+            <div class="wrapper max-w-6xl mx-auto flex justify-between">
+                {% include 'footer.twig' %}
+            </div>
+        </footer>
+        {{ function('wp_footer') }}
+    {% endblock %}
 
 </body>
 </html>

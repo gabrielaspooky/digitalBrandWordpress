@@ -17,39 +17,45 @@ class MyTheme extends Timber\Site {
         add_theme_support( 'post-thumbnails' );
         add_theme_support( 'menus' );
 
-        // Iniciar hooks de acciones y filtros personalizados si es necesario.
+        // Registrar Custom Post Types y Taxonomías.
         add_action( 'init', array( $this, 'register_custom_post_types' ) );
         add_action( 'init', array( $this, 'register_custom_taxonomies' ) );
 
         parent::__construct();
     }
 
-    // Registrar tipos de contenido personalizados (si es necesario).
+    // Registrar tipos de contenido personalizados.
     public function register_custom_post_types() {
-        // Añadir tipos de contenido personalizados aquí.
+        register_post_type('About', array(
+            'labels' => array(
+                'name' => __('About'),
+                'singular_name' => __('About description')
+            ),
+            'public' => true,
+            'has_archive' => true,
+            'rewrite' => array('slug' => 'about'),
+            'supports' => array('title', 'editor', 'thumbnail'),
+        ));
     }
 
     // Registrar taxonomías personalizadas (si es necesario).
     public function register_custom_taxonomies() {
-        // Añadir taxonomías personalizadas aquí.
+        // Añadir taxonomías personalizadas aquí si las necesitas.
     }
 }
 
+// Enqueue de Tailwind CSS.
 function enqueue_theme_styles() {
     wp_enqueue_style( 'tailwind', get_template_directory_uri() . '/assets/css/tailwind.css', array(), '1.0.0' );
 }
 add_action( 'wp_enqueue_scripts', 'enqueue_theme_styles' );
 
-
+// Renderizado de plantillas basado en la página actual.
 function setup_page_views() {
     if (is_page('index')) {
         Timber::render('index.twig');
     } elseif (is_page('author')) {
         Timber::render('author.twig');
-    // } elseif (is_page('servicio-1')) {
-    //     Timber::render('service-1.twig');
-    // } elseif (is_page('servicio-2')) {
-    //     Timber::render('service-2.twig');
     } elseif (is_page('menu')) {
         Timber::render('menu.twig');
     } elseif (is_page('footer')) {
@@ -59,8 +65,6 @@ function setup_page_views() {
     }
 }
 add_action('wp', 'setup_page_views');
-
-
 
 // Inicializar la clase para cargar Timber en tu tema.
 new MyTheme();
