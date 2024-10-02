@@ -35,6 +35,12 @@ class MyTheme extends Timber\Site {
     }
 }
 
+function enqueue_theme_styles() {
+    wp_enqueue_style( 'tailwind', get_template_directory_uri() . '/assets/css/tailwind.css', array(), '1.0.0' );
+}
+add_action( 'wp_enqueue_scripts', 'enqueue_theme_styles' );
+
+
 function setup_page_templates() {
     if (is_page('index')) {
         Timber::render('index.twig');

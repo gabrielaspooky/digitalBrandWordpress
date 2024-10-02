@@ -333,3 +333,8 @@ Stack trace:
 [01-Oct-2024 19:14:07 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [01-Oct-2024 19:17:33 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
 [01-Oct-2024 19:17:59 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Oct-2024 19:30:05 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Oct-2024 19:33:03 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Oct-2024 19:33:59 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Oct-2024 19:36:50 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[01-Oct-2024 20:53:21 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
