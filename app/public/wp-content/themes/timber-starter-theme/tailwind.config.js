@@ -6,7 +6,9 @@ module.exports = {
     './assets/**/*.css',
   ],
   theme: {
-    extend: {},
+    extend: {
+      'regal-blue': '#243c5a',
+    },
   },
   plugins: [],
 }
