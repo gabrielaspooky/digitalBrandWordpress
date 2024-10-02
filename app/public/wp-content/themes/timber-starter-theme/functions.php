@@ -26,10 +26,10 @@ class MyTheme extends Timber\Site {
 
     // Registrar tipos de contenido personalizados.
     public function register_custom_post_types() {
-        register_post_type('About', array(
+        register_post_type('about', array( // <-- 'about' en minúsculas
             'labels' => array(
                 'name' => __('About'),
-                'singular_name' => __('About description')
+                'singular_name' => __('About Description')
             ),
             'public' => true,
             'has_archive' => true,
@@ -52,7 +52,9 @@ add_action( 'wp_enqueue_scripts', 'enqueue_theme_styles' );
 
 // Renderizado de plantillas basado en la página actual.
 function setup_page_views() {
-    if (is_page('index')) {
+    if (is_singular('about')) { // <-- Verificar si es el custom post type 'about'
+        Timber::render('about.twig'); // <-- Renderiza 'about.twig'
+    } elseif (is_page('index')) {
         Timber::render('index.twig');
     } elseif (is_page('author')) {
         Timber::render('author.twig');
@@ -61,10 +63,10 @@ function setup_page_views() {
     } elseif (is_page('footer')) {
         Timber::render('footer.twig');
     } else {
-        Timber::render('404.twig'); 
+        Timber::render('404.twig');
     }
 }
-add_action('wp', 'setup_page_views');
+add_action('setup_page_views', 'template_redirect'); // <-- Usar 'template_redirect'
 
 // Inicializar la clase para cargar Timber en tu tema.
 new MyTheme();

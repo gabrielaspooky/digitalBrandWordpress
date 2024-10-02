@@ -10,12 +10,15 @@
     {{ function('wp_body_open') }}
     <a class="skip-link screen-reader-text" href="#content">{{ _e('Skip to content') }}</a>
 
+    <!-- Encabezado -->
     <header class="header bg-blue-900 text-white py-4">
         {% block header %}
             <div class="wrapper max-w-6xl mx-auto flex justify-between items-center">
+                <!-- Logo del sitio -->
                 <h1 class="hdr-logo text-3xl font-bold" role="banner">
                     <a class="hdr-logo-link hover:text-blue-300" href="{{ site.url }}" rel="home">{{ site.name }}</a>
                 </h1>
+                <!-- Menú de navegación -->
                 <nav id="nav-main" class="nav-main flex space-x-6" role="navigation">
                     {% include "menu.twig" with {'items': menu.get_items} %}
                 </nav><!-- #nav -->
@@ -23,12 +26,16 @@
         {% endblock %}
     </header>
 
+    <!-- Contenido Principal -->
     <section id="content" role="main" class="content-wrapper bg-gray-100 py-8">
+        <!-- Título de la página -->
         {% if title %}
             <div class="wrapper max-w-6xl mx-auto">
                 <h1 class="text-4xl font-semibold mb-6">{{ title }}</h1>
             </div>
         {% endif %}
+        
+        <!-- Bloque principal de contenido -->
         <div class="wrapper max-w-6xl mx-auto">
             {% block content %}
                 <!-- El contenido principal se renderiza aquí -->
@@ -36,6 +43,7 @@
             {% endblock %}
         </div>
         
+        <!-- Barra lateral opcional -->
         {% if sidebar %}
             <aside class="layout-sidebar max-w-4xl mx-auto mt-8">
                 <div class="bg-white p-4 shadow-md rounded">
@@ -45,5 +53,14 @@
         {% endif %}
     </section>
 
+    <!-- Footer -->
+    {% block footer %}
+        <footer id="footer" class="bg-blue-900 text-white py-4">
+            <div class="wrapper max-w-6xl mx-auto">
+                {% include 'footer.twig' %}
+            </div>
+            {{ function('wp_footer') }}
+        </footer>
+    {% endblock %}
 </body>
 </html>
