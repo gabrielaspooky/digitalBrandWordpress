@@ -3,11 +3,20 @@
 
 {% block content %}
   {# see `base.twig:27` for where this block's content will be inserted #}
-  <div class="content-wrapper">
-    {% for post in posts %}
-      {% include ['tease-'~post.post_type~'.twig', 'tease.twig'] %}
-    {% endfor %}
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {% for post in posts %}
+        <div class="bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300 ease-in-out hover:scale-105">
+          {% include ['tease-'~post.post_type~'.twig', 'tease.twig'] %}
+        </div>
+      {% endfor %}
+    </div>
 
-    {% include 'partial/pagination.twig' with { pagination: posts.pagination({show_all: false, mid_size: 3, end_size: 2}) } %}
+    <div class="mt-12">
+      {% include 'partial/pagination.twig' with { 
+        pagination: posts.pagination({show_all: false, mid_size: 3, end_size: 2}),
+        class: 'flex justify-center items-center space-x-2'
+      } %}
+    </div>
   </div>
 {% endblock %}

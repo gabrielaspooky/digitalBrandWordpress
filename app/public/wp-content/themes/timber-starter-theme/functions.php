@@ -21,12 +21,15 @@ class MyTheme extends Timber\Site {
         add_action( 'init', array( $this, 'register_custom_post_types' ) );
         add_action( 'init', array( $this, 'register_custom_taxonomies' ) );
 
+        // Lógica de renderizado para plantillas.
+        add_action( 'template_redirect', array( $this, 'setup_page_views' ) );
+
         parent::__construct();
     }
 
     // Registrar tipos de contenido personalizados.
     public function register_custom_post_types() {
-        register_post_type('about', array( // <-- 'about' en minúsculas
+        register_post_type('about', array(
             'labels' => array(
                 'name' => __('About'),
                 'singular_name' => __('About Description')
@@ -42,6 +45,27 @@ class MyTheme extends Timber\Site {
     public function register_custom_taxonomies() {
         // Añadir taxonomías personalizadas aquí si las necesitas.
     }
+
+    // Lógica para renderizar diferentes plantillas según el tipo de contenido.
+    public function setup_page_views() {
+        // Asegúrate de que Timber solo renderiza una vez.
+        if ( is_singular('about') ) {
+            Timber::render('about.twig');
+            exit; // Detiene la ejecución para evitar renderizados adicionales
+        } elseif ( is_home() || is_front_page() ) {
+            Timber::render('index.twig');
+            exit;
+        } elseif ( is_page('services') ) {
+            Timber::render('services.twig');
+            exit;
+        } elseif ( is_page('contact') ) {
+            Timber::render('contact.twig');
+            exit;
+        } else {
+            Timber::render('404.twig');
+            exit;
+        }
+    }
 }
 
 // Enqueue de Tailwind CSS.
@@ -50,23 +74,5 @@ function enqueue_theme_styles() {
 }
 add_action( 'wp_enqueue_scripts', 'enqueue_theme_styles' );
 
-// Renderizado de plantillas basado en la página actual.
-function setup_page_views() {
-    if (is_singular('about')) { // <-- Verificar si es el custom post type 'about'
-        Timber::render('about.twig'); // <-- Renderiza 'about.twig'
-    } elseif (is_page('index')) {
-        Timber::render('index.twig');
-    } elseif (is_page('author')) {
-        Timber::render('author.twig');
-    } elseif (is_page('menu')) {
-        Timber::render('menu.twig');
-    } elseif (is_page('footer')) {
-        Timber::render('footer.twig');
-    } else {
-        Timber::render('404.twig');
-    }
-}
-add_action('setup_page_views', 'template_redirect'); // <-- Usar 'template_redirect'
-
-// Inicializar la clase para cargar Timber en tu tema.
+// Inicializar la clase del tema.
 new MyTheme();

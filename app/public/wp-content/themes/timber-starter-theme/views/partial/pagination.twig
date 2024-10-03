@@ -1,26 +1,45 @@
 {% if posts.pagination.pages is not empty %}
-    <nav class="pagination-block">
-        <ul class="pagination">
-
+    <nav class="flex justify-center mt-8" aria-label="Pagination">
+        <ul class="inline-flex items-center -space-x-px">
             {# First #}
             {% if posts.pagination.pages|first and posts.pagination.pages|first.current != true %}
-                <li class="first btn">
-                    <a href="{{ posts.pagination.pages|first.link }}">First</a>
+                <li>
+                    <a href="{{ posts.pagination.pages|first.link }}" class="block px-3 py-2 ml-0 leading-tight text-gray-500 bg-white border border-gray-300 rounded-l-lg hover:bg-gray-100 hover:text-gray-700">
+                        <span class="sr-only">First</span>
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M15.707 15.707a1 1 0 01-1.414 0l-5-5a1 1 0 010-1.414l5-5a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 010 1.414zm-6 0a1 1 0 01-1.414 0l-5-5a1 1 0 010-1.414l5-5a1 1 0 011.414 1.414L5.414 10l4.293 4.293a1 1 0 010 1.414z" clip-rule="evenodd" />
+                        </svg>
+                    </a>
                 </li>
             {% else %}
-                <li class="first btn disabled">
-                    <button disabled>First</button>
+                <li>
+                    <span class="block px-3 py-2 ml-0 leading-tight text-gray-300 bg-white border border-gray-300 rounded-l-lg cursor-not-allowed">
+                        <span class="sr-only">First</span>
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M15.707 15.707a1 1 0 01-1.414 0l-5-5a1 1 0 010-1.414l5-5a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 010 1.414zm-6 0a1 1 0 01-1.414 0l-5-5a1 1 0 010-1.414l5-5a1 1 0 011.414 1.414L5.414 10l4.293 4.293a1 1 0 010 1.414z" clip-rule="evenodd" />
+                        </svg>
+                    </span>
                 </li>
             {% endif %}
 
             {# Previous #}
             {% if posts.pagination.prev %}
-                <li class="prev btn">
-                    <a href="{{ posts.pagination.prev.link }}">Previous</a>
+                <li>
+                    <a href="{{ posts.pagination.prev.link }}" class="block px-3 py-2 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700">
+                        <span class="sr-only">Previous</span>
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                    </a>
                 </li>
             {% else %}
-                <li class="prev btn disabled">
-                    <button disabled>Previous</button>
+                <li>
+                    <span class="block px-3 py-2 leading-tight text-gray-300 bg-white border border-gray-300 cursor-not-allowed">
+                        <span class="sr-only">Previous</span>
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z" clip-rule="evenodd" />
+                        </svg>
+                    </span>
                 </li>
             {% endif %}
 
@@ -28,37 +47,56 @@
             {% for page in posts.pagination.pages %}
                 {% if page.link %}
                     <li>
-                        <a href="{{ page.link }}" class="{{ page.class }}">{{ page.title }}</a>
+                        <a href="{{ page.link }}" class="px-3 py-2 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700 {{ page.class }}">{{ page.title }}</a>
                     </li>
                 {% else %}
-                    <li class="current">
-                        <span class="{{ page.class }}">{{ page.title }}</span>
+                    <li>
+                        <span class="px-3 py-2 text-blue-600 border border-gray-300 bg-blue-50 hover:bg-blue-100 hover:text-blue-700 {{ page.class }}">{{ page.title }}</span>
                     </li>
                 {% endif %}
             {% endfor %}
 
             {# Next #}
             {% if posts.pagination.next %}
-                <li class="next btn">
-                    <a href="{{ posts.pagination.next.link }}">Next</a>
+                <li>
+                    <a href="{{ posts.pagination.next.link }}" class="block px-3 py-2 leading-tight text-gray-500 bg-white border border-gray-300 hover:bg-gray-100 hover:text-gray-700">
+                        <span class="sr-only">Next</span>
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+                        </svg>
+                    </a>
                 </li>
             {% else %}
-                <li class="next btn disabled">
-                    <button disabled>Next</button>
+                <li>
+                    <span class="block px-3 py-2 leading-tight text-gray-300 bg-white border border-gray-300 cursor-not-allowed">
+                        <span class="sr-only">Next</span>
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+                        </svg>
+                    </span>
                 </li>
             {% endif %}
 
             {# Last #}
             {% if posts.pagination.pages|last and posts.pagination.pages|last.current != true %}
-                <li class="last btn">
-                    <a href="{{ posts.pagination.pages|last.link }}">Last</a>
+                <li>
+                    <a href="{{ posts.pagination.pages|last.link }}" class="block px-3 py-2 leading-tight text-gray-500 bg-white border border-gray-300 rounded-r-lg hover:bg-gray-100 hover:text-gray-700">
+                        <span class="sr-only">Last</span>
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0zm6 0a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+                        </svg>
+                    </a>
                 </li>
             {% else %}
-                <li class="last btn disabled">
-                    <button disabled>Last</button>
+                <li>
+                    <span class="block px-3 py-2 leading-tight text-gray-300 bg-white border border-gray-300 rounded-r-lg cursor-not-allowed">
+                        <span class="sr-only">Last</span>
+                        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                            <path fill-rule="evenodd" d="M4.293 15.707a1 1 0 010-1.414L8.586 10 4.293 5.707a1 1 0 011.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0zm6 0a1 1 0 010-1.414L14.586 10l-4.293-4.293a1 1 0 111.414-1.414l5 5a1 1 0 010 1.414l-5 5a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+                        </svg>
+                    </span>
                 </li>
             {% endif %}
-
         </ul>
     </nav>
 {% endif %}
