@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Importar la fuente Jersey 15 desde Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+

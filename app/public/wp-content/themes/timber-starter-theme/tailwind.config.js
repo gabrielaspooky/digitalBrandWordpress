@@ -1,3 +1,4 @@
+
 module.exports = {
   content: [
     './templates/**/*.twig',
@@ -6,10 +7,8 @@ module.exports = {
     './assets/**/*.css',
   ],
   theme: {
-    extend: {
-      backgroundColor: {
-        'custom-color': '#26243E',
-      },
+    fontFamily: {
+      jersey15: ["Jersey 15", 'sans-serif'], 
     },
   },
   plugins: [],

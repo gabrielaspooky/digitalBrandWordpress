@@ -23,7 +23,7 @@
   --tw-ring-inset:  ;
   --tw-ring-offset-width: 0px;
   --tw-ring-offset-color: #fff;
-  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-color: rgba(149, 160, 43, 0.5);
   --tw-ring-offset-shadow: 0 0 #0000;
   --tw-ring-shadow: 0 0 #0000;
   --tw-shadow: 0 0 #0000;
@@ -154,8 +154,21 @@ html,
 */
 
 body {
-  margin: 0; /* 1 */
-  line-height: inherit; /* 2 */
+  margin: 0; 
+  line-height: inherit; 
+  background: #26253A;
+  font-family: "Jersey 15", sans-serif;
+  font-size: xx-large;
+}
+
+header {
+
+  background: #7E2277;
+}
+
+footer {
+
+  background: #7E2277;
 }
 
 /*
@@ -189,8 +202,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-size: inherit;
-  font-weight: inherit;
+  color: #9DC62D;
 }
 
 /*

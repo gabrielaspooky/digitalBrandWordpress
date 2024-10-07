@@ -10,18 +10,18 @@
     <a class="skip-link screen-reader-text" href="#content">{{ _e('Skip to content') }}</a>
 
     <!-- Encabezado -->
-    <header class="header bg-blue-900 text-white py-4">
+    <header class="header bg-[#7E2277] text-white py-4">
         {% block header %}
             <div class="wrapper max-w-6xl mx-auto flex justify-between items-center">
                 <!-- Logo del sitio -->
                 <h1 class="hdr-logo text-3xl font-bold" role="banner">
-                    <a class="hdr-logo-link hover:text-blue-300" href="{{ site.url }}" rel="home">{{ site.name }}</a>
+                    <a class="hdr-logo-link hover:text-[#9DC62D]" href="{{ site.url }}" rel="home">{{ site.name }}</a>
                 </h1>
                 <!-- Menú de navegación -->
                 <nav id="nav-main" class="nav-main flex space-x-6" role="navigation">
-                    <a href="{{ site.url }}/services" class="hover:text-blue-300">Servicios</a>
-                    <a href="{{ site.url }}/about" class="hover:text-blue-300">Acerca de</a>
-                    <a href="{{ site.url }}/contact" class="hover:text-blue-300">Contacto</a>
+                    <a href="{{ site.url }}/services">Servicios</a>
+                    <a href="{{ site.url }}/about">Acerca de</a>
+                    <a href="{{ site.url }}/contact">Contacto</a>
                 </nav><!-- #nav -->
             </div>
         {% endblock %}
@@ -31,7 +31,7 @@
     <main id="content" role="main" class="content-wrapper bg-[#26243E] py-8 flex-grow">
         {% block content %}
          <div class="container mx-auto px-4 py-8 bg-[#26243E]">
-    <h1 class="text-4xl font-bold text-center text-blue-800 mb-8">BlendCraft Studios.</h1>
+    <h1 class="text-4xl font-bold text-center mb-8">BlendCraft Studios.</h1>
     <p class="text-lg text-gray-700 text-center mb-8">
         Explora nuestros servicios y descubre cómo podemos ayudarte a alcanzar tus objetivos.
     </p>
@@ -56,7 +56,7 @@
 
     <!-- Footer -->
     {% block footer %}
-        <footer id="footer" class="bg-blue-900 text-white py-4 mt-auto">
+        <footer id="footer" class="bg-[#9DC62D] text-white py-4 mt-auto">
             <div class="wrapper max-w-6xl mx-auto">
                 {% include 'footer.twig' %}
             </div>

@@ -1420,3 +1420,394 @@ Stack trace:
 [04-Oct-2024 10:48:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php on line 420
 [04-Oct-2024 10:48:57 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code on line 35
 [04-Oct-2024 11:26:46 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[07-Oct-2024 08:55:32 UTC] PHP Fatal error:  Uncaught Error: Class "StarterSite" not found in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:11
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 11
+[07-Oct-2024 08:55:32 UTC] PHP Fatal error:  Uncaught Error: Class "StarterSite" not found in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:11
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 11
+[07-Oct-2024 08:57:54 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Timber\Timber::init() from global scope in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:10
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 10
+[07-Oct-2024 08:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Timber\Timber::init() from global scope in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:10
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 10
+[07-Oct-2024 08:57:56 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Timber\Timber::init() from global scope in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:10
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 10
+[07-Oct-2024 08:57:57 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Timber\Timber::init() from global scope in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:10
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 10
+[07-Oct-2024 08:58:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('index.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('index.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(75): Timber\Timber::render('index.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 08:58:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('404.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('404.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(84): Timber\Timber::render('404.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 08:59:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('index.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('index.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(74): Timber\Timber::render('index.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 08:59:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('404.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('404.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(83): Timber\Timber::render('404.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 09:02:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('index.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('index.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(74): Timber\Timber::render('index.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 09:02:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('404.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('404.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(83): Timber\Timber::render('404.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 09:02:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('index.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('index.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(74): Timber\Timber::render('index.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 09:02:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('404.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('404.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(83): Timber\Timber::render('404.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('index.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('index.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(74): Timber\Timber::render('index.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 09:02:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Timber\Loader::MAIN_NAMESPACE in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php:73
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php(17): Timber\LocationManager::get_locations_theme()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(34): Timber\LocationManager::get_locations('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(309): Timber\Loader->__construct('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('404.twig', Array, false, 'default', true)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('404.twig', Array, false, 'default')
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(83): Timber\Timber::render('404.twig')
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#12 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\vendor\timber\timber\src\LocationManager.php on line 73
+[07-Oct-2024 09:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Timber\Timber::init() from global scope in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:10
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 10
+[07-Oct-2024 09:04:39 UTC] PHP Fatal error:  Uncaught Error: Call to protected method Timber\Timber::init() from global scope in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:10
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 10
+[07-Oct-2024 09:14:00 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "header.twig" (looked into: C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme, C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views, ) in "base.twig" at line 5. in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php:265
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php(161): Twig\Loader\FilesystemLoader->findTemplate('header.twig')
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(351): Twig\Loader\FilesystemLoader->getCacheKey('header.twig')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->getTemplateClass('header.twig')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(375): Twig\Environment->loadTemplate('header.twig', NULL)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(109): Twig\Template->loadTemplate('header.twig', 'base.twig', 5)
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_head(Array, Array)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(98): Twig\Template->displayBlock('head', Array, Array)
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_html_head_container(Array, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(34): Twig\Template->displayBlock('html_head_conta...', Array, Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->doDisplay(Array, Array)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(35): Twig\Template->display(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_83a9ec6542b21c013d508532fa6fa7576cc0d569a655ea9d05a54c92a1e2ecd9->doDisplay(Array, Array)
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(432): Twig\Template->display(Array)
+#15 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\TemplateWrapper.php(47): Twig\Template->render(Array, Array)
+#16 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(79): Twig\TemplateWrapper->render(Array)
+#17 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('index.twig', Array, false, 'default')
+#18 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('index.twig', Array, false, 'default', true)
+#19 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('index.twig', Array, false, 'default')
+#20 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(62): Timber\Timber::render('index.twig')
+#21 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#22 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#23 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#24 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#25 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#26 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#27 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 265
+[07-Oct-2024 09:14:00 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "header.twig" (looked into: C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme, C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views, ) in "base.twig" at line 5. in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php:265
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php(161): Twig\Loader\FilesystemLoader->findTemplate('header.twig')
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(351): Twig\Loader\FilesystemLoader->getCacheKey('header.twig')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->getTemplateClass('header.twig')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(375): Twig\Environment->loadTemplate('header.twig', NULL)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(109): Twig\Template->loadTemplate('header.twig', 'base.twig', 5)
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_head(Array, Array)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(98): Twig\Template->displayBlock('head', Array, Array)
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_html_head_container(Array, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(34): Twig\Template->displayBlock('html_head_conta...', Array, Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->doDisplay(Array, Array)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(35): Twig\Template->display(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_cffa81fec91f342d987d354052f8716a5c0bba0dbd7d5a7e0344240c048d3f27->doDisplay(Array, Array)
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(432): Twig\Template->display(Array)
+#15 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\TemplateWrapper.php(47): Twig\Template->render(Array, Array)
+#16 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(79): Twig\TemplateWrapper->render(Array)
+#17 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('404.twig', Array, false, 'default')
+#18 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('404.twig', Array, false, 'default', true)
+#19 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('404.twig', Array, false, 'default')
+#20 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(71): Timber\Timber::render('404.twig')
+#21 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#22 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#23 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#24 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#25 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#26 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#27 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 265
+[07-Oct-2024 09:14:04 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "header.twig" (looked into: C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme, C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views, ) in "base.twig" at line 5. in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php:265
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php(161): Twig\Loader\FilesystemLoader->findTemplate('header.twig')
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(351): Twig\Loader\FilesystemLoader->getCacheKey('header.twig')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->getTemplateClass('header.twig')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(375): Twig\Environment->loadTemplate('header.twig', NULL)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(109): Twig\Template->loadTemplate('header.twig', 'base.twig', 5)
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_head(Array, Array)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(98): Twig\Template->displayBlock('head', Array, Array)
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_html_head_container(Array, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(34): Twig\Template->displayBlock('html_head_conta...', Array, Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->doDisplay(Array, Array)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(35): Twig\Template->display(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_cffa81fec91f342d987d354052f8716a5c0bba0dbd7d5a7e0344240c048d3f27->doDisplay(Array, Array)
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(432): Twig\Template->display(Array)
+#15 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\TemplateWrapper.php(47): Twig\Template->render(Array, Array)
+#16 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(79): Twig\TemplateWrapper->render(Array)
+#17 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('404.twig', Array, false, 'default')
+#18 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('404.twig', Array, false, 'default', true)
+#19 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('404.twig', Array, false, 'default')
+#20 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(71): Timber\Timber::render('404.twig')
+#21 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#22 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#23 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#24 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#25 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#26 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#27 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 265
+[07-Oct-2024 09:14:08 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "header.twig" (looked into: C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme, C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views, ) in "base.twig" at line 5. in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php:265
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php(161): Twig\Loader\FilesystemLoader->findTemplate('header.twig')
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(351): Twig\Loader\FilesystemLoader->getCacheKey('header.twig')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->getTemplateClass('header.twig')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(375): Twig\Environment->loadTemplate('header.twig', NULL)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(109): Twig\Template->loadTemplate('header.twig', 'base.twig', 5)
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_head(Array, Array)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(98): Twig\Template->displayBlock('head', Array, Array)
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_html_head_container(Array, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(34): Twig\Template->displayBlock('html_head_conta...', Array, Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->doDisplay(Array, Array)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(35): Twig\Template->display(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_83a9ec6542b21c013d508532fa6fa7576cc0d569a655ea9d05a54c92a1e2ecd9->doDisplay(Array, Array)
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(432): Twig\Template->display(Array)
+#15 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\TemplateWrapper.php(47): Twig\Template->render(Array, Array)
+#16 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(79): Twig\TemplateWrapper->render(Array)
+#17 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('index.twig', Array, false, 'default')
+#18 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('index.twig', Array, false, 'default', true)
+#19 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('index.twig', Array, false, 'default')
+#20 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(62): Timber\Timber::render('index.twig')
+#21 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#22 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#23 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#24 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#25 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#26 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#27 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 265
+[07-Oct-2024 09:14:08 UTC] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "header.twig" (looked into: C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme, C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\views, ) in "base.twig" at line 5. in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php:265
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php(161): Twig\Loader\FilesystemLoader->findTemplate('header.twig')
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(351): Twig\Loader\FilesystemLoader->getCacheKey('header.twig')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(445): Twig\Environment->getTemplateClass('header.twig')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(375): Twig\Environment->loadTemplate('header.twig', NULL)
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(109): Twig\Template->loadTemplate('header.twig', 'base.twig', 5)
+#5 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_head(Array, Array)
+#6 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(98): Twig\Template->displayBlock('head', Array, Array)
+#7 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(214): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->block_html_head_container(Array, Array)
+#8 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(34): Twig\Template->displayBlock('html_head_conta...', Array, Array)
+#9 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_7ed26a9959b2080cfe9143838e1f36fb31e8b7c4ca2138c2fc8a8d40d286015c->doDisplay(Array, Array)
+#10 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#11 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Environment.php(497) : eval()'d code(35): Twig\Template->display(Array, Array)
+#12 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(453): __TwigTemplate_cffa81fec91f342d987d354052f8716a5c0bba0dbd7d5a7e0344240c048d3f27->doDisplay(Array, Array)
+#13 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(420): Twig\Template->displayWithErrorHandling(Array, Array)
+#14 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Template.php(432): Twig\Template->display(Array)
+#15 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\TemplateWrapper.php(47): Twig\Template->render(Array, Array)
+#16 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Loader.php(79): Twig\TemplateWrapper->render(Array)
+#17 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(334): Timber\Loader->render('404.twig', Array, false, 'default')
+#18 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(383): Timber\Timber::compile('404.twig', Array, false, 'default', true)
+#19 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\lib\Timber.php(410): Timber\Timber::fetch('404.twig', Array, false, 'default')
+#20 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php(71): Timber\Timber::render('404.twig')
+#21 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(324): MyTheme->setup_page_views('')
+#22 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#23 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#24 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-includes\template-loader.php(13): do_action('template_redire...')
+#25 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Gabrie...')
+#26 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#27 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\plugins\timber-library\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 265
+[07-Oct-2024 09:31:17 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 81
+[07-Oct-2024 09:31:17 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 81
+[07-Oct-2024 09:32:19 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 81
+[07-Oct-2024 09:32:19 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 81

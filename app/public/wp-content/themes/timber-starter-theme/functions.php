@@ -68,7 +68,7 @@ class MyTheme extends Timber\Site {
             Timber::render('contact.twig');
             exit;
         } else {
-            Timber::render('services.twig');
+            Timber::render('404.twig');
             exit;
         }
     }
@@ -76,7 +76,7 @@ class MyTheme extends Timber\Site {
 
 // Enqueue de Tailwind CSS.
 function enqueue_theme_styles() {
-    wp_enqueue_style( 'tailwind', get_template_directory_uri() . '/assets/css/tailwind.css', array(), '1.0.0' );
+    wp_enqueue_style( 'tailwind', get_template_directory_uri() . '/assets/css/tailwind.css', array(), '1.0.0', 'all' );
 }
 add_action( 'wp_enqueue_scripts', 'enqueue_theme_styles' );
 

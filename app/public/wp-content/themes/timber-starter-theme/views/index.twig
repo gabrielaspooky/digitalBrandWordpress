@@ -2,11 +2,13 @@
 
 {% block content %}
 <div class="container mx-auto px-4 py-8 bg-[#26243E]">
-    <h1 class="text-4xl font-bold text-center text-blue-800 mb-8">BlendCraft Studios.</h1>
-    <p class="text-lg text-gray-700 text-center mb-8">
+    <h1 class="text-5xl text-center mb-8">BlendCraft Studios</h1>
+    <p class="text-[82px] text-center mb-8 text-white">
         Explora nuestros servicios y descubre cómo podemos ayudarte a alcanzar tus objetivos.
     </p>
-    <img src="https://33.media.tumblr.com/6dea7a21a4a6b68c2e9afad85d414509/tumblr_nezlquXcmJ1qffbleo1_500.gif" alt="BlendCraft Studios Animation">
+    <div class="flex justify-center">
+        <img src="https://33.media.tumblr.com/6dea7a21a4a6b68c2e9afad85d414509/tumblr_nezlquXcmJ1qffbleo1_500.gif" alt="BlendCraft Studios Animation" class="block">
+    </div>
 
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {% for post in posts %}
