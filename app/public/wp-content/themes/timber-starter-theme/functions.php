@@ -17,22 +17,29 @@ class MyTheme extends Timber\Site {
         add_theme_support( 'post-thumbnails' );
         add_theme_support( 'menus' );
 
-        // Registrar Custom Post Types y Taxonomías.
         add_action( 'init', array( $this, 'register_custom_post_types' ) );
         add_action( 'init', array( $this, 'register_custom_taxonomies' ) );
 
-        // Lógica de renderizado para plantillas.
+     
         add_action( 'template_redirect', array( $this, 'setup_page_views' ) );
 
         parent::__construct();
     }
 
-    // Registrar tipos de contenido personalizados.
+ 
     public function register_custom_post_types() {
         register_post_type('about', array(
             'labels' => array(
                 'name' => __('About'),
-                'singular_name' => __('About Description')
+                'singular_name' => __('About Description'),
+                'add_new' => __('Add New'),
+                'add_new_item' => __('Add New About Description'),
+                'edit_item' => __('Edit About Description'),
+                'new_item' => __('New About Description'),
+                'view_item' => __('View About Description'),
+                'search_items' => __('Search About Descriptions'),
+                'not_found' => __('No About Descriptions found'),
+                'not_found_in_trash' => __('No About Descriptions found in Trash'),
             ),
             'public' => true,
             'has_archive' => true,
@@ -41,17 +48,16 @@ class MyTheme extends Timber\Site {
         ));
     }
 
-    // Registrar taxonomías personalizadas (si es necesario).
+  
     public function register_custom_taxonomies() {
-        // Añadir taxonomías personalizadas aquí si las necesitas.
+        
     }
 
-    // Lógica para renderizar diferentes plantillas según el tipo de contenido.
     public function setup_page_views() {
-        // Asegúrate de que Timber solo renderiza una vez.
+   
         if ( is_singular('about') ) {
             Timber::render('about.twig');
-            exit; // Detiene la ejecución para evitar renderizados adicionales
+            exit; 
         } elseif ( is_home() || is_front_page() ) {
             Timber::render('index.twig');
             exit;
@@ -62,7 +68,7 @@ class MyTheme extends Timber\Site {
             Timber::render('contact.twig');
             exit;
         } else {
-            Timber::render('404.twig');
+            Timber::render('services.twig');
             exit;
         }
     }

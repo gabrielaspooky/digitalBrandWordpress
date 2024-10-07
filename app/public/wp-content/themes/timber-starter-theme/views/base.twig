@@ -3,10 +3,9 @@
     {% block head %}
         <!-- Aquí puedes añadir elementos personalizados al <head>, como metas, estilos adicionales, etc. -->
     {% endblock %}
-    </head>
 {% endblock %}
 
-<body class="{{ body_class }}" data-template="base.twig">
+<body class="{{ body_class }} flex flex-col min-h-screen" data-template="base.twig">
     {{ function('wp_body_open') }}
     <a class="skip-link screen-reader-text" href="#content">{{ _e('Skip to content') }}</a>
 
@@ -20,42 +19,44 @@
                 </h1>
                 <!-- Menú de navegación -->
                 <nav id="nav-main" class="nav-main flex space-x-6" role="navigation">
-                    {% include "menu.twig" with {'items': menu.get_items} %}
+                    <a href="{{ site.url }}/services" class="hover:text-blue-300">Servicios</a>
+                    <a href="{{ site.url }}/about" class="hover:text-blue-300">Acerca de</a>
+                    <a href="{{ site.url }}/contact" class="hover:text-blue-300">Contacto</a>
                 </nav><!-- #nav -->
             </div>
         {% endblock %}
     </header>
 
     <!-- Contenido Principal -->
-    <section id="content" role="main" class="content-wrapper bg-gray-100 py-8">
-        <!-- Título de la página -->
-        {% if title %}
-            <div class="wrapper max-w-6xl mx-auto">
-                <h1 class="text-4xl font-semibold mb-6">{{ title }}</h1>
-            </div>
-        {% endif %}
-        
-        <!-- Bloque principal de contenido -->
-        <div class="wrapper max-w-6xl mx-auto">
-            {% block content %}
-                <!-- El contenido principal se renderiza aquí -->
-                <p class="text-lg text-gray-700">Lo siento, no hay contenido disponible.</p>
-            {% endblock %}
-        </div>
-        
-        <!-- Barra lateral opcional -->
-        {% if sidebar %}
-            <aside class="layout-sidebar max-w-4xl mx-auto mt-8">
-                <div class="bg-white p-4 shadow-md rounded">
-                    {{ sidebar }}
+    <main id="content" role="main" class="content-wrapper bg-[#26243E] py-8 flex-grow">
+        {% block content %}
+         <div class="container mx-auto px-4 py-8 bg-[#26243E]">
+    <h1 class="text-4xl font-bold text-center text-blue-800 mb-8">BlendCraft Studios.</h1>
+    <p class="text-lg text-gray-700 text-center mb-8">
+        Explora nuestros servicios y descubre cómo podemos ayudarte a alcanzar tus objetivos.
+    </p>
+    <img src="{{ theme.link }}/assets/images/animation.gif" alt="BlendCraft Studios Animation">
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {% for post in posts %}
+            <article class="bg-[#26243E] text-white shadow-lg rounded-lg overflow-hidden transform transition duration-500 hover:scale-105">
+                <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="w-full h-48 object-cover">
+                <div class="p-6">
+                    <h2 class="text-2xl font-bold text-blue-800 mb-4">{{ post.title }}</h2>
+                    <p class="text-gray-600 mb-4">{{ post.excerpt }}</p>
+                    <a href="{{ post.link }}" class="text-blue-600 hover:text-blue-800 font-semibold">Leer más</a>
                 </div>
-            </aside>
-        {% endif %}
-    </section>
+            </article>
+        {% else %}
+            <p class="text-center text-gray-500">No hay publicaciones disponibles en este momento.</p>
+        {% endfor %}
+    </div>
+        {% endblock %}
+    </main>
 
     <!-- Footer -->
     {% block footer %}
-        <footer id="footer" class="bg-blue-900 text-white py-4">
+        <footer id="footer" class="bg-blue-900 text-white py-4 mt-auto">
             <div class="wrapper max-w-6xl mx-auto">
                 {% include 'footer.twig' %}
             </div>

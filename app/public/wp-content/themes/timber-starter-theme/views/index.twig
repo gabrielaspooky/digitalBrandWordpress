@@ -1,49 +1,26 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ site.title }}</title>
-    <link rel="stylesheet" href="{{ theme.uri }}/assets/css/tailwind.css">
+{% extends "base.twig" %}
 
-</head>
-<body class="flex flex-col min-h-screen bg-gray-100">
+{% block content %}
+<div class="container mx-auto px-4 py-8 bg-[#26243E]">
+    <h1 class="text-4xl font-bold text-center text-blue-800 mb-8">BlendCraft Studios.</h1>
+    <p class="text-lg text-gray-700 text-center mb-8">
+        Explora nuestros servicios y descubre cómo podemos ayudarte a alcanzar tus objetivos.
+    </p>
+    <img src="https://33.media.tumblr.com/6dea7a21a4a6b68c2e9afad85d414509/tumblr_nezlquXcmJ1qffbleo1_500.gif" alt="BlendCraft Studios Animation">
 
-<header class="bg-white shadow">
-    <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
-        <div class="flex justify-between h-16 items-center">
-            <div class="flex items-center">
-            <img src="https://seeklogo.com/images/P/pied-piper-logo-CEFC2E0237-seeklogo.com.png" class="justify-between h-20 w-20 p-4">
-                <h1 class="text-2xl font-bold text-[#358580]">Pied Piper Digital Agency</h1>
-            </div>
-<nav class="hidden md:flex space-x-4">
-    <a href="{{ site.url }}/services" class="text-gray-500 hover:text-[#358580]">Servicios</a>
-    <a href="{{ site.url }}/about" class="text-gray-500 hover:text-[#358580]">Acerca de</a>
-    <a href="{{ site.url }}/contact" class="text-gray-500 hover:text-[#358580]">Contact</a>
-    <a href="{{ site.url }}/404" class="text-gray-500 hover:text-[#358580]">Not found</a>
-</nav>
-           
-            </div>
-        </div>
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {% for post in posts %}
+            <article class="bg-[#26243E] text-white shadow-lg rounded-lg overflow-hidden transform transition duration-500 hover:scale-105">
+                <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="w-full h-48 object-cover">
+                <div class="p-6">
+                    <h2 class="text-2xl font-bold text-blue-800 mb-4">{{ post.title }}</h2>
+                    <p class="text-gray-600 mb-4">{{ post.excerpt }}</p>
+                    <a href="{{ post.link }}" class="text-blue-600 hover:text-blue-800 font-semibold">Leer más</a>
+                </div>
+            </article>
+        {% else %}
+            <p class="text-center text-gray-500">No hay publicaciones disponibles en este momento.</p>
+        {% endfor %}
     </div>
-</header>
-
-<main class="flex-grow bg-gradient-to-r from-cyan-500 to-[#358580]">
-    <div class="container mx-auto px-4 py-8 flex justify-center">
-<img src="https://i.pinimg.com/originals/a0/10/bc/a010bcd948094d8f658a8a1a4da4f56f.jpg" alt="Silicon Valley">
-    </div>
-
-	
-</main>
-
-    {% block footer %}
-        <footer id="footer" class="bg-black text-white py-6 mt-12">
-            <div class="wrapper max-w-6xl mx-auto flex justify-between">
-                {% include 'footer.twig' %}
-            </div>
-        </footer>
-        {{ function('wp_footer') }}
-    {% endblock %}
-
-</body>
-</html>
+</div>
+{% endblock %}
