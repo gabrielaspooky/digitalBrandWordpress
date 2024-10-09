@@ -21,3 +21,5 @@ if ( is_home() ) {
 	array_unshift( $views, 'front-page.twig', 'home.twig' );
 }
 Timber::render( $views, $context );
+
+

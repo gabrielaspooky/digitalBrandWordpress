@@ -1811,3 +1811,1782 @@ Stack trace:
 [07-Oct-2024 09:31:17 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 81
 [07-Oct-2024 09:32:19 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 81
 [07-Oct-2024 09:32:19 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 81
+[07-Oct-2024 13:08:19 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:13 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:13 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:14 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:22 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[07-Oct-2024 13:10:22 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:22 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:23 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:23 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:23 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:24 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:24 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:24 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:26 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[07-Oct-2024 13:10:27 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:27 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:29 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:29 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:29 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:31 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[07-Oct-2024 13:10:31 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:10:31 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:29 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[07-Oct-2024 13:11:29 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:29 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:31 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:31 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:31 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:32 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[07-Oct-2024 13:11:32 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:32 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:33 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:33 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:33 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:34 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:34 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:34 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:37 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:11:38 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:15:42 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:15:43 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:17:11 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[07-Oct-2024 13:17:11 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:17:11 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:17:11 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:17:16 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:17:16 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:17:17 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:17:25 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:17:28 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:15 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:15 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:15 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:15 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:16 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[07-Oct-2024 13:20:16 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:16 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:16 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:16 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:17 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:17 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:17 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:22 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:22 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:22 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:20:22 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:21:30 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:21:30 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:21:30 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:21:30 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:21:30 UTC] No se encontró ninguna coincidencia: 
+[07-Oct-2024 13:21:30 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:12:16 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:12:16 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:12:17 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:40 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:40 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:41 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:42 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:14:42 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:43 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:44 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:44 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:44 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:44 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:45 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:46 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:46 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:46 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:47 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:47 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:47 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:48 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:48 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:48 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:48 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:48 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:14:49 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:35 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:35 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:35 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:36 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:39 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:16:39 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:39 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:39 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:40 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:40 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:40 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:41 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:41 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:41 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:41 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:42 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:59 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:59 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:59 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:16:59 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:17:37 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:17:37 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:17:37 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:17:38 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:21:02 UTC] PHP Warning:  require_once(C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/settings.php): Failed to open stream: No such file or directory in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 3
+[08-Oct-2024 17:21:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:3
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 3
+[08-Oct-2024 17:21:02 UTC] PHP Warning:  require_once(C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/settings.php): Failed to open stream: No such file or directory in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 3
+[08-Oct-2024 17:21:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:3
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 3
+[08-Oct-2024 17:21:17 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:21:18 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:21:18 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:21:18 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:16 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:24:16 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:16 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:17 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:18 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:18 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:18 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:19 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:20 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:24:20 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:20 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:20 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:21 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:21 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:21 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:22 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:22 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:22 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:22 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:22 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:23 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:24:23 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:23 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:23 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:24 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:24 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:24 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:24 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:28 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:28 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:29 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:30 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:30 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:30 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:30 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:31 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:24:31 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:31 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:32 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:32 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:33 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:33 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:33 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:35 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:35 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:24:36 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:25:53 UTC] PHP Warning:  require_once(C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/settings.php): Failed to open stream: No such file or directory in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 3
+[08-Oct-2024 17:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:3
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 3
+[08-Oct-2024 17:25:53 UTC] PHP Warning:  require_once(C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/settings.php): Failed to open stream: No such file or directory in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 3
+[08-Oct-2024 17:25:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/settings.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:3
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 3
+[08-Oct-2024 17:29:41 UTC] PHP Warning:  require_once(C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/autoload.php): Failed to open stream: No such file or directory in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 4
+[08-Oct-2024 17:29:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/autoload.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:4
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 4
+[08-Oct-2024 17:29:41 UTC] PHP Warning:  require_once(C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/autoload.php): Failed to open stream: No such file or directory in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 4
+[08-Oct-2024 17:29:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme/inc/autoload.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php:4
+Stack trace:
+#0 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-settings.php(668): include()
+#1 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-config.php(103): require_once('C:\\Users\\Gabrie...')
+#2 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Gabrie...')
+#3 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Gabrie...')
+#4 C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\index.php(17): require('C:\\Users\\Gabrie...')
+#5 {main}
+  thrown in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 4
+[08-Oct-2024 17:29:51 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:51 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:51 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:52 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:52 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:52 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:52 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:53 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:29:53 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:53 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:54 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:54 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:55 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:56 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:57 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[08-Oct-2024 17:29:57 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:57 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:57 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:59 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:59 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:59 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:29:59 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:30:01 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:30:01 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:30:01 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:30:01 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:30:03 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:30:03 UTC] No se encontró ninguna coincidencia: 
+[08-Oct-2024 17:30:04 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:16:40 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:16:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:16:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:39 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:39 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:39 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:39 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:39 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:39 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:39 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:39 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:39 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:39 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:49 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:17:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:49 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:49 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:49 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:49 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:52 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:17:52 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:52 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:52 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:52 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:52 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:52 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:52 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:52 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:52 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:17:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:17:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:18:06 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:18:06 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:18:06 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:18:06 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:18:06 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:18:06 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:18:06 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:18:06 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:18:06 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:18:06 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:10 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:19:10 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:10 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:10 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:10 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:10 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:10 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:10 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:10 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:10 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:11 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:11 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:11 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:11 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:11 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:11 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:11 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:11 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:11 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:11 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:12 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:12 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:12 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:12 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:12 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:13 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:19:13 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:13 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:13 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:13 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:13 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:13 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:13 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:13 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:13 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:15 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:15 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:15 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:15 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:19:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:19:15 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:32 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:32 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:32 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:32 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:32 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:32 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:32 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:32 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:32 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:32 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:33 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:33 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:33 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:33 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:33 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:33 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:34 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:34 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:34 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:34 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:34 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:34 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:34 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:36 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:36 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:36 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:36 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:36 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:36 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:36 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:36 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:36 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:36 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:37 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:20:37 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:37 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:37 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:37 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:37 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:37 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:37 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:37 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:37 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:38 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:38 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:38 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:38 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:38 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:38 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:38 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:38 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:38 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:38 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:40 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:40 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:40 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:40 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:20:41 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:20:41 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:45 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:45 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:45 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:45 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:45 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:45 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:46 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:46 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:46 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:46 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:46 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:46 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:46 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:46 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:47 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:47 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:49 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:21:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:49 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:49 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:49 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:49 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:49 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:21:54 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:21:54 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:22:29 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:22:29 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:23:00 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:23:00 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:23:01 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:23:01 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:23:01 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:23:01 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:23:07 UTC] PHP Parse error:  syntax error, unexpected token "new", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 61
+[09-Oct-2024 08:23:07 UTC] PHP Parse error:  syntax error, unexpected token "new", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 61
+[09-Oct-2024 08:23:26 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 66
+[09-Oct-2024 08:23:26 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 66
+[09-Oct-2024 08:23:37 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 61
+[09-Oct-2024 08:23:37 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 61
+[09-Oct-2024 08:23:37 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 61
+[09-Oct-2024 08:23:37 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 61
+[09-Oct-2024 08:23:38 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 61
+[09-Oct-2024 08:23:38 UTC] PHP Parse error:  syntax error, unexpected identifier "add_filter", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 61
+[09-Oct-2024 08:24:04 UTC] PHP Parse error:  syntax error, unexpected token "public" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 35
+[09-Oct-2024 08:24:04 UTC] PHP Parse error:  syntax error, unexpected token "public" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 35
+[09-Oct-2024 08:24:05 UTC] PHP Parse error:  syntax error, unexpected token "public" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 35
+[09-Oct-2024 08:24:05 UTC] PHP Parse error:  syntax error, unexpected token "public" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 35
+[09-Oct-2024 08:24:15 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:24:15 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 63
+[09-Oct-2024 08:24:20 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:20 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:21 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:21 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:21 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:21 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:21 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:21 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:21 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:21 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:56 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:56 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:56 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:56 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:56 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:56 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:56 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:56 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:56 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:56 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:59 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:59 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:59 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:59 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:59 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:59 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:59 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:59 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:24:59 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:24:59 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:01 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:25:01 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:01 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:01 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:01 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:01 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:01 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:01 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:01 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:01 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:01 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:01 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:02 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:02 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:02 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:02 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:02 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:02 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:02 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:02 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:08 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:08 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:08 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:08 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:08 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:08 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:08 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:08 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:08 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:08 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:20 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:20 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:20 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:20 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:20 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:20 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:20 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:20 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:20 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:20 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:27 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:27 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:27 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:27 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:27 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:27 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:27 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:27 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:27 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:27 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:50 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:50 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:50 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:50 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:50 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:50 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:50 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:50 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:25:50 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:25:50 UTC] PHP Warning:  Undefined variable $context in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 76
+[09-Oct-2024 08:26:08 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:08 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:08 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:08 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:09 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:12 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:13 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:26:13 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:13 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:13 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:14 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:16 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:16 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:16 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:16 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:16 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:17 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:21 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:21 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:21 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:21 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:21 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:23 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:26:23 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:23 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:23 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:23 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:24 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:24 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:24 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:24 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:24 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:30 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:30 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:30 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:30 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:26:30 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:22 UTC] PHP Parse error:  syntax error, unexpected identifier "add_new_pages", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 75
+[09-Oct-2024 08:29:22 UTC] PHP Parse error:  syntax error, unexpected identifier "add_new_pages", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 75
+[09-Oct-2024 08:29:40 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:41 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:41 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:41 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:41 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:43 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:44 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:29:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:44 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:45 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:45 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:45 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:45 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:45 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:48 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:48 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:48 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:50 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:51 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:51 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:51 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:51 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:52 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:29:52 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:52 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:52 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:52 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:53 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:53 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:53 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:53 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:29:53 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:30:59 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:30:59 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:30:59 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:32:00 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 85
+[09-Oct-2024 08:32:00 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 85
+[09-Oct-2024 08:38:52 UTC] PHP Parse error:  syntax error, unexpected token "new", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 86
+[09-Oct-2024 08:38:52 UTC] PHP Parse error:  syntax error, unexpected token "new", expecting "function" or "const" in C:\Users\GabrielaNava\Local Sites\digitalbrandwordpress\app\public\wp-content\themes\timber-starter-theme\functions.php on line 86
+[09-Oct-2024 08:41:10 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:10 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:15 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:15 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 2
+    [post_author] => 1
+    [post_date] => 2024-10-01 18:22:28
+    [post_date_gmt] => 2024-10-01 18:22:28
+    [post_content] => <!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://digitalbrandwordpress.local/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->
+    [post_title] => Sample Page
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => open
+    [post_password] => 
+    [post_name] => sample-page
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-01 18:22:28
+    [post_modified_gmt] => 2024-10-01 18:22:28
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=2
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:41:16 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:16 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:16 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:18 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 2
+    [post_author] => 1
+    [post_date] => 2024-10-01 18:22:28
+    [post_date_gmt] => 2024-10-01 18:22:28
+    [post_content] => <!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://digitalbrandwordpress.local/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->
+    [post_title] => Sample Page
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => open
+    [post_password] => 
+    [post_name] => sample-page
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-01 18:22:28
+    [post_modified_gmt] => 2024-10-01 18:22:28
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=2
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:41:18 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:18 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:18 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:19 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:41:19 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:19 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:19 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:22 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:23 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:41:23 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:23 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:23 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:31 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:41:31 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:31 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:32 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:34 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 16
+    [post_author] => 1
+    [post_date] => 2024-10-04 11:26:23
+    [post_date_gmt] => 2024-10-04 11:26:23
+    [post_content] => 
+    [post_title] => About
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => closed
+    [ping_status] => closed
+    [post_password] => 
+    [post_name] => about
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-04 11:26:23
+    [post_modified_gmt] => 2024-10-04 11:26:23
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?page_id=16
+    [menu_order] => 0
+    [post_type] => page
+    [post_mime_type] => 
+    [comment_count] => 0
+    [filter] => raw
+)
+
+[09-Oct-2024 08:41:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:34 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:41 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:41 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:41 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:41 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:57 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:57 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:57 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:41:58 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:42:01 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:42:01 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:42:04 UTC] No se encontró ninguna coincidencia: WP_Post Object
+(
+    [ID] => 1
+    [post_author] => 1
+    [post_date] => 2024-10-01 18:22:28
+    [post_date_gmt] => 2024-10-01 18:22:28
+    [post_content] => <!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->
+    [post_title] => Hello world!
+    [post_excerpt] => 
+    [post_status] => publish
+    [comment_status] => open
+    [ping_status] => open
+    [post_password] => 
+    [post_name] => hello-world
+    [to_ping] => 
+    [pinged] => 
+    [post_modified] => 2024-10-01 18:22:28
+    [post_modified_gmt] => 2024-10-01 18:22:28
+    [post_content_filtered] => 
+    [post_parent] => 0
+    [guid] => http://digitalbrandwordpress.local/?p=1
+    [menu_order] => 0
+    [post_type] => post
+    [post_mime_type] => 
+    [comment_count] => 1
+    [filter] => raw
+    [status] => publish
+    [id] => 1
+    [slug] => hello-world
+    [custom] => Array
+        (
+            [_edit_lock] => 1728303179:1
+        )
+
+)
+
+[09-Oct-2024 08:42:05 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:42:05 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:42:05 UTC] No se encontró ninguna coincidencia: 
+[09-Oct-2024 08:42:06 UTC] No se encontró ninguna coincidencia: 
